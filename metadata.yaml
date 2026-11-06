@@ -1,0 +1,5 @@
+homepage: "https://www.metricowl.co.uk/gtm-templates"
+documentation: "https://github.com/metricowl-lab/gtm-duplicate-purchase-guard#readme"
+versions:
+  - sha: 2f34827773a3a4d50b011e8d04679fec0c9d8fcd
+    changeNotes: Initial release.
