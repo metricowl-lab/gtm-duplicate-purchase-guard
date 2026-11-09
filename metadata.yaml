@@ -1,5 +1,10 @@
 homepage: "https://www.metricowl.co.uk/gtm-templates"
 documentation: "https://github.com/metricowl-lab/gtm-duplicate-purchase-guard#readme"
 versions:
+  - sha: 5b4e32b3935941310945e35070e4f7fd85d537bd
+    changeNotes: |-
+      Template name now starts with Metric Owl and says whether it's a tag or a variable.
+      Description links to the documentation and support page.
+      Licence copyright line filled in.
   - sha: 2f34827773a3a4d50b011e8d04679fec0c9d8fcd
     changeNotes: Initial release.
